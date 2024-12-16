@@ -1,2 +1,2 @@
 # my-demo
-Author - Vamsi<br> Creatinh a new github repository
+Author - Vamsi<br> Creating a new github repository
